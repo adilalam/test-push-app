@@ -42,8 +42,7 @@ clevertap.notifications.push({
     'We promise to only send you relevant content and give you updates on your transactions',
   okButtonText: 'Allow',
   rejectButtonText: 'No thanks',
-  okButtonColor: '#f28046',
-  serviceWorkerPath: './clevertap_sw.js',
+  okButtonColor: '#f28046'
 });
 
   let ProfileObject = {};
