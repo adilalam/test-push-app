@@ -43,7 +43,7 @@ clevertap.notifications.push({
   okButtonText: 'Allow',
   rejectButtonText: 'No thanks',
   okButtonColor: '#f28046',
-  serviceWorkerPath: '../../clevertap_sw.js',
+  serviceWorkerPath: './clevertap_sw.js',
 });
 
   let ProfileObject = {};
