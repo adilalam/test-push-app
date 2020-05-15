@@ -1,6 +1,6 @@
 import React, { useEffect } from 'react';
-import Head from 'next/head';
-import Nav from '../components/nav';
+// import Head from 'next/head';
+// import Nav from '../components/nav';
 
 const Home = () => {
   useEffect(() => {
@@ -18,11 +18,11 @@ const Home = () => {
 
   return (
     <div>
-      {/* <Head>
+     <Head>
         <title>Home</title>
         <link rel='icon' href='/favicon.ico' />
         <script src='/ejjs.js' type='text/javascript' />
-      </Head> */}
+      </Head>
 
       {/* <Nav /> */}
 
