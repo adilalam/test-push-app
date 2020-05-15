@@ -1,0 +1,16 @@
+{
+  "short_name": "EditorJi Lite",
+  "name": "EditorJi Lite",
+  "icons": [
+    {
+      "src": "https://cue-data-stream.s3.amazonaws.com/cue_logo-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "gcm_sender_id": "682379800929",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
